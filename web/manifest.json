@@ -1,6 +1,6 @@
 {
-    "name": "listadetarefa",
-    "short_name": "listadetarefa",
+    "name": "listadetarefas",
+    "short_name": "listadetarefas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
